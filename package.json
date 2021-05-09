@@ -1,8 +1,8 @@
 {
   "name": "com.ferdi.todo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "TODO List",
-  "description": "This is a very simple todo list window to use directly in the Unity editor.\n\nv1.0.0 [2021.05.09]\nInitial version of TODO List.",
+  "description": "This is a very simple todo list window to use directly in the Unity editor.\n\nChangelog :\n\nv 1.0.1 [2021.05.09]\nFix Assembly definition to Editor only\n\nv1.0.0 [2021.05.09]\nInitial version of TODO List.",
   "unity": "2019.1",
   "keywords": [
     "Ferdi",
